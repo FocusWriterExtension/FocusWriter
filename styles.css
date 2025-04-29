@@ -42,23 +42,6 @@ body {
     gap: 12px;
 }
 
-.navbar__logo a {
-    text-decoration: none;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    color: var(--dark-green);
-    pointer-events: none;
-    cursor: default;
-}
-
-.navbar__logo a:hover {
-    text-decoration: none;
-    color: var(--dark-green);
-    pointer-events: none;
-    cursor: default;
-}
-
 .navbar__logo img {
     width: 40px;
     height: 40px;
