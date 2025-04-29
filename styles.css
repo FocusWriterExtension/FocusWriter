@@ -47,6 +47,12 @@ body {
     display: flex;
     align-items: center;
     gap: 12px;
+    color: var(--dark-green);
+}
+
+.navbar__logo a:hover {
+    text-decoration: none;
+    color: var(--dark-green);
 }
 
 .navbar__logo img {
